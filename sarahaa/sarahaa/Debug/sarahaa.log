@@ -1,0 +1,13 @@
+﻿  File.cpp
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\File.cpp(104,20): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Message.cpp
+  User.cpp
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(189,20): warning C4018: '<': signed/unsigned mismatch
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\Projects\mshAdHam1\sarahaa\sarahaa\sarahaa\User.cpp(231): warning C4715: 'User::get_message': not all control paths return a value
+  sarahaa.vcxproj -> D:\Projects\mshAdHam1\sarahaa\sarahaa\Debug\sarahaa.exe
